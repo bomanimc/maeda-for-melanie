@@ -1,3 +1,9 @@
+# Maeda for Melanie
+This repository contains an example of creating a web page that lays out text similar to [John Maeda's 1996 poster](https://twitter.com/johnmaeda/status/513487242451767296).
+
+The important code and logic [is in this file](https://github.com/bomanimc/maeda-for-melanie/blob/main/src/pages/index.js). Here's an example of te output:
+![Lorem ipsum text layed out in screen using Maeda-like logic](./maeda-output-example.png)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
